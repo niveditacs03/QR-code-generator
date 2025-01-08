@@ -1,0 +1,40 @@
+.textarea
+{
+  border-radius: 5px;
+  width: 400px;
+  height: 200px;
+}
+.submit 
+{
+  width: 41%;
+  height: auto;
+}
+.smallersubmit
+{
+  width: 18%;
+}
+.newContainer
+{
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-left:14%;
+  img 
+  {
+    width: 150px;
+    height: 150px;
+  }
+}
+.container
+{
+  margin-top: 20vh;
+  margin-left: 17vw;
+  display: flex;
+  flex-direction: column;
+}
+html
+{
+  background-image: url('https://static.vecteezy.com/system/resources/previews/023/941/413/original/yellow-fun-seamless-background-vector.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 155%;
+}
